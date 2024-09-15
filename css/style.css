@@ -123,7 +123,7 @@
 }
 
 .terms a {
-  color: red;
+  color: hsl(0, 100%, 74%);
 }
 
 .form-firstName,
@@ -142,7 +142,7 @@
 
 .error-text {
   text-align: right;
-  color: red;
+  color: hsl(0, 100%, 74%);
   font-size: 14px;
   margin-top: 10px;
 }
