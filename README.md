@@ -15,7 +15,6 @@ This project is an "Intro Component with Sign Up Form," which includes a clean a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [License](#license)
 
 ---
 
@@ -58,17 +57,12 @@ Feel free to explore, modify, or use this project as a reference for your own wo
 
 ---
 
-## License
-
-This project is open source and free to use under the [MIT License](./LICENSE).
-
----
 
 ## Attributions
 
 Design crafted with care by Rakibur Rahman ✨🎨🚀  
-- [LinkedIn Profile](#)  
-- [Email Me](mailto:#)  
+- [LinkedIn Profile](https://www.linkedin.com/in/md-rakibur-rahman-14b33a2a4)  
+- [Email Me](mailto:rakibhassan307@gmail.com)  
 - [Live Demo](#)
 
 ---
